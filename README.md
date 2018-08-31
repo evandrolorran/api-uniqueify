@@ -45,6 +45,7 @@ https://uniqueify-react-app.herokuapp.com/
 - [Insonmia](https://insomnia.rest/)
 - [cURL](https://curl.haxx.se/)
 - [VS Code](https://code.visualstudio.com/)
+- [Heroku](https://www.heroku.com/)
 
 ## Unique-ify - Front-End React App
 
