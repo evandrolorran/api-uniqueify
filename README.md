@@ -20,21 +20,31 @@ Clone or download this repository, then open it in your preferred IDE/Code Edito
 
 If you want to run this API locally in your computer, you need to follow these steps
 
+            **In progress**
+
 The easiest way to test and see the result of the GET request is by clicking the link below:
 
-https://github.com/evandrolorran
+            https://api-uniqueify.herokuapp.com/unique-ify?text=This is an Node API
+            https://api-uniqueify.herokuapp.com/unique-ify?text=23432
+            https://api-uniqueify.herokuapp.com/unique-ify?text=
+            
+
+or just try the **React-App**
+
+            https://uniqueify-react-app.herokuapp.com/
 
 ## How to Test - GET Request
 
-Use left-right and up-down arrow keys to move the player from block to block. Collision with enemy(Hands) results in moving the player to start position, while reaching the basket you score 2 points.
+            **In progress**
 
 ## Tools used to build this API:
 
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
 - Cors
+- [Insonmia](https://insomnia.rest/)
 - [cURL](https://curl.haxx.se/)
-- [Visual Studio Code](https://code.visualstudio.com/)
+- [VS Code](https://code.visualstudio.com/)
 
 ## Unique-ify - Front-End React App
 
