@@ -29,7 +29,7 @@ app.get("/api/unique-ify", (req, res) => {
 
 // When a enviornment port variable is defined.
 // e.g. - export PORT=2808
-const PORT = process.env.port || 2808;
+const PORT = process.env.PORT || 2808;
 app.listen(PORT, () => {
   console.log("Server is up and listening on: " + PORT);
 });
