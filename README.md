@@ -51,11 +51,3 @@ evandrolorran@gmail.com
 ### Special Thanks / Mentions
 
 For supporting me and the feedbacks during development. [MAJA WITTER](https://twitter.com/wchwd)
-
-curl -v -w "\n" -G --data-urlencode "text=The time is two pm" http://localhost:2808/api/unique-ify
-curl -v -w "\n" -G --data-urlencode "text=The time is 2:00 pm" http://localhost:2808/api/unique-ify
-curl -v -w "\n" -G --data-urlencode "Text with special chars" http://localhost:2808/api/unique-ify
-curl -v -w "\n" -G --data-urlencode "text=325345" http://localhost:2808/api/unique-ify
-curl -v -w "\n" -G --data-urlencode "text=" http://localhost:2808/api/unique-ify
-curl -v -w "\n" -G http://localhost:2808/api/unique-ify
-curl http://localhost:2808/api/unique-ify
