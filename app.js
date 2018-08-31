@@ -6,7 +6,7 @@ const errorHandler = require("./utils/errorHandler");
 
 app.use(cors());
 
-app.get("/api/unique-ify", (req, res) => {
+app.get("/unique-ify", (req, res) => {
   try {
     const inputText = req.query.text;
 
