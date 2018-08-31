@@ -31,7 +31,7 @@ The easiest way to test and see the result of the GET request is by clicking the
 
 or just try the **React-App**
 
-            https://uniqueify-react-app.herokuapp.com/
+https://uniqueify-react-app.herokuapp.com/
 
 ## How to Test - GET Request
 
