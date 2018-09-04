@@ -35,7 +35,11 @@ https://uniqueify-react-app.herokuapp.com/
 
 ## How to Test - GET Request
 
-            **In progress**
+The easiest way to test and see the result of the GET request is by clicking the link below:
+
+            https://api-uniqueify.herokuapp.com/unique-ify?text=This is an Node API
+            https://api-uniqueify.herokuapp.com/unique-ify?text=23432
+            https://api-uniqueify.herokuapp.com/unique-ify?text=
 
 ## Tools used to build this API:
 
