@@ -10,7 +10,7 @@ module.exports = {
         errorMessage = "Route Not Found.";
         break;
       case 409: // 409 Conflict
-        errorMessage = "You are missing a text parameter.";
+        errorMessage = "Required field cannot be left blank.";
         break;
       case 500: // 500 Internal Server Error
         errorMessage = "There is an error trying to GET information.";
