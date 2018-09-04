@@ -21,12 +21,6 @@ Clone or download this repository, then open it in your preferred IDE/Code Edito
 If you want to run this API locally in your computer, you need to follow these steps
 
             **In progress**
-
-The easiest way to test and see the result of the GET request is by clicking the link below:
-
-            https://api-uniqueify.herokuapp.com/unique-ify?text=This is an Node API
-            https://api-uniqueify.herokuapp.com/unique-ify?text=23432
-            https://api-uniqueify.herokuapp.com/unique-ify?text=
             
 
 or just try the **React-App**
@@ -35,7 +29,7 @@ https://uniqueify-react-app.herokuapp.com/
 
 ## How to Test - GET Request
 
-The easiest way to test and see the result of the GET request is by clicking the link below:
+The easiest way to test and see the result of the GET request is by copy and paste the link below in your browser:
 
             https://api-uniqueify.herokuapp.com/unique-ify?text=This is an Node API
             https://api-uniqueify.herokuapp.com/unique-ify?text=23432
